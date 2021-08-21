@@ -1,1 +1,1 @@
-this is my thirde chapter, I dont know what I'm doing
+this is my thirde chapter, I'm trying to change it and see it using DIFF
